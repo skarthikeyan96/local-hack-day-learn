@@ -4,7 +4,7 @@ import React from 'react';
 function App() {
   return (
     <div>
-      Todo application
+      <p className="text-center"> Todo application </p>
     </div>
   );
 }
